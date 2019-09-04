@@ -1,3 +1,6 @@
+
+
+
 $(document).ready(function(){
     $(".container-fluid center .row div").hover(function(){
         $(this).fadeTo("opacity",0.5);
